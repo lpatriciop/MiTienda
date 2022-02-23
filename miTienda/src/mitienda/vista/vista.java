@@ -10,10 +10,16 @@ package mitienda.vista;
  * @author Patricio
  */
 public class vista {
-
+private int i;
     public vista() {
     }
     
+    private void limpiaDatos(){
+    //ddddddd
+    }
     
+ private void listaDatos(){
+    //ddddddd
+    }
     
 }
